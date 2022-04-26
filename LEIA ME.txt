@@ -1,0 +1,2 @@
+Arquivo de Log de Backup
+Acesse a pasta FastCopy/Logs
